@@ -15,8 +15,12 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <center>
+        <h2>
+          Hello World!!!!
+        </h2>
+        </center>
       </main>
-
       <Footer />
     </div>
   )
