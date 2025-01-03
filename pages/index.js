@@ -11,13 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my appls website!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
         <center>
         <h2>
-          Hello World!!!!
+          Hello World!!!! 
         </h2>
         </center>
       </main>
